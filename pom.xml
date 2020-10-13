@@ -22,7 +22,7 @@
 	        <plugin.maven-compiler>3.1</plugin.maven-compiler>
 	        <plugin.maven-surefire>2.18.1</plugin.maven-surefire>
 	        <skipTests>true</skipTests>
-	        <junit.version>4.11</junit.version>
+	        <junit.version>4.13.1</junit.version>
 	        <plugin.maven-version>2.2</plugin.maven-version>
 	        <spring.version>4.3.3.RELEASE</spring.version>
 	        <mybatis.version>3.2.2</mybatis.version>
